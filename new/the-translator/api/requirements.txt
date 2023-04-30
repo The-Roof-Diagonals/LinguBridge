@@ -1,0 +1,16 @@
+azure_storage==0.37.0
+boto3==1.26.123
+en_core_web_md==3.5.0
+Flask==2.0.1
+msrest==0.7.1
+openai==0.27.5
+openai_whisper==20230314
+Pillow==9.0.1
+Pillow==9.5.0
+python-dotenv==1.0.0
+Requests==2.29.0
+scikit_learn==1.2.2
+spacy==3.5.2
+SQLAlchemy==2.0.11
+Werkzeug==2.0.2
+whisper==1.1.10

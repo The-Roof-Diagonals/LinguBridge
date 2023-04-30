@@ -1,0 +1,11 @@
+.ant-collapse-header {
+  padding: 4px 0 !important;
+}
+
+.ant-collapse-content-box {
+  padding: 0 0 16px 0 !important;
+}
+
+.ant-steps-item-title {
+  width: 100%;
+}
